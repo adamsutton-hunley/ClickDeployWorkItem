@@ -1,0 +1,12 @@
+.cmp-container  {
+    padding: 1rem;
+}
+
+.cmp-container__elem {
+    padding: .25rem;
+}
+
+.magicword {
+    font-size: 6rem;
+    font-weight: bold;
+}
