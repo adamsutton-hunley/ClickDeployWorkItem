@@ -14,7 +14,8 @@ export default class MagicWordMachine extends LightningElement {
         'blue',
         'green',
         'aqua',
-        'lime'
+        'lime',
+        'silver'
     ];
 
     currentMagicColor;
