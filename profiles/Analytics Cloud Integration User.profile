@@ -3622,4 +3622,8 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <userLicense>Analytics Cloud Integration User</userLicense>
+    <classAccesses>
+        <apexClass>HunleyDebugUtils</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
 </Profile>

@@ -3334,4 +3334,8 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <userLicense>High Volume Customer Portal</userLicense>
+    <classAccesses>
+        <apexClass>HunleyDebugUtils</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
 </Profile>

@@ -3311,4 +3311,8 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>CPQ Integration User</userLicense>
+    <classAccesses>
+        <apexClass>HunleyDebugUtils</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
 </Profile>
