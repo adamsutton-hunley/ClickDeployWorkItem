@@ -3194,4 +3194,8 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Identity</userLicense>
+    <classAccesses>
+        <apexClass>HunleyDebugUtils</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
 </Profile>

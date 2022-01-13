@@ -3689,4 +3689,8 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Service Cloud</userLicense>
+    <classAccesses>
+        <apexClass>HunleyDebugUtils</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
 </Profile>

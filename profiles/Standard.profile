@@ -3617,4 +3617,8 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
+    <classAccesses>
+        <apexClass>HunleyDebugUtils</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
 </Profile>
